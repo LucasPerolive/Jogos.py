@@ -1,0 +1,8 @@
+sushi
+garrafa
+caneta
+caderno
+banana
+computador
+cadeira
+mesa
